@@ -1,2 +1,2 @@
 # e-commerce-product-page
-repo
+this is e-commerce product based project
